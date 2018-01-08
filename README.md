@@ -1,5 +1,5 @@
-WIP: Implement Redux
-TODO: Format event location
-TODO: Add "No upcoming events" message
-TODO: Fix Tickets link
+WIP: Implement Redux<br />
+TODO: Format event location<br />
+TODO: Add "No upcoming events" message<br />
+TODO: Fix Tickets link<br />
 TODO: Clean CSS
